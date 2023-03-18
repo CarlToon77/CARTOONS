@@ -1,1 +1,10 @@
+#EXTM3U
 
+#EXTINF:-1 TVG-LOGO="https://archive.org/download/transformers_202303/Transformers%20Generacion%201%20%28S04%29.jpg" GROUP-TITLE="", EPISODIO 96 - EL RENACIMIENTO (PARTE 1)
+https://archive.org/download/transformers_202303/Transformers%20Generacion%201%20%28S04E96%29%20-%20El%20Renacimiento%20%28Parte%2001%29.mp4
+
+#EXTINF:-1 TVG-LOGO="https://archive.org/download/transformers_202303/Transformers%20Generacion%201%20%28S04%29.jpg" GROUP-TITLE="", EPISODIO 97 - EL RENACIMIENTO (PARTE 2)
+https://archive.org/download/transformers_202303/Transformers%20Generacion%201%20%28S04E97%29%20-%20El%20Renacimiento%20%28Parte%2002%29.mp4
+
+#EXTINF:-1 TVG-LOGO="https://archive.org/download/transformers_202303/Transformers%20Generacion%201%20%28S04%29.jpg" GROUP-TITLE="", EPISODIO 98 - EL RENACIMIENTO (FINAL)
+https://archive.org/download/transformers_202303/Transformers%20Generacion%201%20%28S04E98%29%20-%20El%20Renacimiento%20%28Final%29.mp4
