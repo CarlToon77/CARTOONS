@@ -1,1 +1,10 @@
+#EXTM3U
 
+#EXTINF:-1 TVG-LOGO="https://archive.org/download/transformers_202303/Transformers%20Beast%20Wars%20%28S01%29.png" GROUP-TITLE="", TEMPORADA 1
+https://raw.githubusercontent.com/CarlToon77/TRANSFORMERS/main/TRANSFORMERS%20-%20BEAST%20WARS%20(S01).M3U
+
+#EXTINF:-1 TVG-LOGO="https://archive.org/download/transformers_202303/Transformers%20Beast%20Wars%20%28S02%29.jpg" GROUP-TITLE="", TEMPORADA 2
+https://raw.githubusercontent.com/CarlToon77/TRANSFORMERS/main/TRANSFORMERS%20-%20BEAST%20WARS%20(S02).M3U
+
+#EXTINF:-1 TVG-LOGO="https://archive.org/download/transformers_202303/Transformers%20Beast%20Wars%20%28S03%29.jpg" GROUP-TITLE="", TEMPORADA 3
+https://raw.githubusercontent.com/CarlToon77/TRANSFORMERS/main/TRANSFORMERS%20-%20BEAST%20WARS%20(S03).M3U
