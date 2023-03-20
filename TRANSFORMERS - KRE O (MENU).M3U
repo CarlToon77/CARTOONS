@@ -1,1 +1,7 @@
+#EXTM3U
 
+#EXTINF:-1 TVG-LOGO="https://archive.org/download/transformers_202303/Transformers%20Kre-O%20%28S01%29.jpg" GROUP-TITLE="", TEMPORADA 1
+https://raw.githubusercontent.com/CarlToon77/TRANSFORMERS/main/TRANSFORMERS%20-%20KRE%20O%20(S01).M3U
+
+#EXTINF:-1 TVG-LOGO="https://archive.org/download/transformers_202303/Transformers%20Kre-O%20%28S02%29.png" GROUP-TITLE="", TEMPORADA 2 - THINK LIKE A KRE-ON
+https://raw.githubusercontent.com/CarlToon77/TRANSFORMERS/main/TRANSFORMERS%20-%20KRE%20O%20(S02)%20THINK%20LIKE%20A%20KRE-ON.M3U
